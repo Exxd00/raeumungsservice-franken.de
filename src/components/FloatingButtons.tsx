@@ -29,7 +29,7 @@ export function FloatingButtons() {
     <div className="fixed bottom-6 right-6 z-50 flex flex-col gap-3 no-print">
       {/* WhatsApp Button */}
       <a
-        href="https://wa.me/4991148007161?text=Hallo,%20ich%20interessiere%20mich%20f%C3%BCr%20Ihre%20Entr%C3%BCmpelungsdienstleistungen."
+        href="https://wa.me/4917624824854?text=Hallo,%20ich%20interessiere%20mich%20f%C3%BCr%20Ihre%20Entr%C3%BCmpelungsdienstleistungen."
         target="_blank"
         rel="noopener noreferrer"
         onClick={handleWhatsAppClick}

@@ -50,7 +50,7 @@ export default function KontaktPage() {
 
             {/* WhatsApp */}
             <a
-              href="https://wa.me/4991148007161"
+              href="https://wa.me/4917624824854"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-muted rounded-2xl p-4 sm:p-6 text-center hover:bg-accent hover:shadow-lg transition-all group"
